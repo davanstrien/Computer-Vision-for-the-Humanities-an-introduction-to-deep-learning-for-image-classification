@@ -1,1 +1,16 @@
 # Computer-Vision-for-the-Humanities-an-introduction-to-deep-learning-for-image-classification
+
+This repository contains alternative setup instructions for a forthcoming Programming Historian lesson 'Computer Vision for the Humanities: an introduction to deep learning for image classification'. 
+
+The recommended approach for working with this lesson is through the Kaggle or Google Colab notebook. You can also find alternative setup instructions [here](alternative-setup.md), please note that we won't be able to give full support for this. 
+
+
+## Data 
+
+The data for this two part lesson can be found on Zenodo:
+
+| lesson   | link                                       |
+|----------|--------------------------------------------|
+| part-one | [https://doi.org/10.5281/zenodo.5838410]() |
+| part-two | [https://doi.org/10.5281/zenodo.4487141]() |
+

@@ -2,8 +2,7 @@
 
 This repository contains alternative setup instructions for a forthcoming Programming Historian lesson 'Computer Vision for the Humanities: an introduction to deep learning for image classification'. 
 
-The recommended approach for working with this lesson is through the Kaggle or Google Colab notebook. You can also find alternative setup instructions [here](alternative-setup.md), please note that we won't be able to give full support for this. 
-
+The recommended approach for working with this lesson is through the Kaggle or Google Colab notebook.
 
 ## Data 
 

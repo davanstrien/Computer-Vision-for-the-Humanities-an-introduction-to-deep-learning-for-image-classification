@@ -13,6 +13,6 @@ The data for this two part lesson can be found on Zenodo:
 
 | lesson   | link                                       |
 |----------|--------------------------------------------|
-| part-one | [https://doi.org/10.5281/zenodo.5838410]() |
-| part-two | [https://doi.org/10.5281/zenodo.4487141]() |
+| part-one | [https://doi.org/10.5281/zenodo.5838410](https://doi.org/10.5281/zenodo.5838410) |
+| part-two | [https://doi.org/10.5281/zenodo.4487141](https://doi.org/10.5281/zenodo.4487141) |
 
